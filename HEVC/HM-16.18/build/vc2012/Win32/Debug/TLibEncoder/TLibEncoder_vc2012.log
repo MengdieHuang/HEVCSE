@@ -1,0 +1,55 @@
+﻿生成启动时间为 2019/1/3 16:22:28。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TLibEncoder_vc2012.vcxproj”在节点 5 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIEncoder.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         WeightPredAnalysis.cpp
+         TEncTop.cpp
+         TEncSlice.cpp
+         TEncSearch.cpp
+         TEncSbac.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncRateCtrl.cpp
+         TEncPreanalyzer.cpp
+         TEncPic.cpp
+         TEncGOP.cpp
+         TEncEntropy.cpp
+         TEncCu.cpp
+         TEncCavlc.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncBinCoderCABAC.cpp
+         SyntaxElementWriter.cpp
+         SEIwrite.cpp
+         SEIEncoder.cpp
+         NALwrite.cpp
+         正在生成代码...
+       Lib:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\NALwrite.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\SEIEncoder.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\SEIwrite.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncCavlc.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncCu.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncEntropy.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncGOP.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncPic.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncSbac.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncSearch.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncSlice.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TEncTop.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TLibEncoder_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:02.07

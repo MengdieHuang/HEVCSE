@@ -1,0 +1,74 @@
+﻿生成启动时间为 2019/1/9 15:42:13。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TLibCommon_vc2012.vcxproj”在节点 4 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\Debug.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComChromaFormat.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComTU.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         TComYuv.cpp
+         TComWeightPrediction.cpp
+         TComTU.cpp
+         TComTrQuant.cpp
+         TComSlice.cpp
+         TComSampleAdaptiveOffset.cpp
+         TComRom.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRdCost.cpp
+         TComPrediction.cpp
+         TComPicYuvMD5.cpp
+         TComPicYuv.cpp
+         TComPicSym.cpp
+         TComPic.cpp
+         TComPattern.cpp
+         TComMotionInfo.cpp
+         TComLoopFilter.cpp
+         TComInterpolationFilter.cpp
+         TComDataCU.cpp
+         TComChromaFormat.cpp
+         正在生成代码...
+         正在编译...
+         TComCABACTables.cpp
+         TComBitStream.cpp
+         SEI.cpp
+         Debug.cpp
+         ContextModel3DBuffer.cpp
+         ContextModel.cpp
+         正在生成代码...
+       Lib:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\libmd5.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\ContextModel.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\Debug.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\SEI.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComChromaFormat.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPattern.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPic.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComRom.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComSlice.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComTU.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TComYuv.obj"
+         TLibCommon_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibCommon\TLibCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TLibCommon_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:29.18

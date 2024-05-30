@@ -1,0 +1,44 @@
+﻿生成启动时间为 2019/1/3 16:23:03。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TLibDecoderAnalyser_vc2012.vcxproj”在节点 3 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D RExt__DECODER_DEBUG_BIT_STATISTICS=1 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\AnnexBread.cpp ..\..\source\Lib\TLibDecoder\NALread.cpp ..\..\source\Lib\TLibDecoder\SEIread.cpp ..\..\source\Lib\TLibDecoder\SyntaxElementParser.cpp ..\..\source\Lib\TLibDecoder\TDecBinCoderCABAC.cpp ..\..\source\Lib\TLibDecoder\TDecCAVLC.cpp ..\..\source\Lib\TLibDecoder\TDecConformance.cpp ..\..\source\Lib\TLibDecoder\TDecCu.cpp ..\..\source\Lib\TLibDecoder\TDecEntropy.cpp ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecSbac.cpp ..\..\source\Lib\TLibDecoder\TDecSlice.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         TDecTop.cpp
+         TDecSlice.cpp
+         TDecSbac.cpp
+     1>..\..\source\Lib\TLibDecoder\TDecSbac.cpp(729): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         TDecGop.cpp
+         TDecEntropy.cpp
+         TDecCu.cpp
+         TDecConformance.cpp
+         TDecCAVLC.cpp
+         TDecBinCoderCABAC.cpp
+         SyntaxElementParser.cpp
+         SEIread.cpp
+         NALread.cpp
+         AnnexBread.cpp
+         正在生成代码...
+       Lib:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib" /NOLOGO "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\AnnexBread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\NALread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\SEIread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\SyntaxElementParser.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecBinCoderCABAC.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecCAVLC.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecConformance.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecCu.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecEntropy.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecGop.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecSbac.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecSlice.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TDecTop.obj"
+         TLibDecoderAnalyser_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TLibDecoderAnalyser_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:22.67

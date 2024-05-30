@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/11/6 19:32:10。
+     1>项目“E:\HEVC\H264BSAnalyzer-master\H264BSAnalyzer\H264BSAnalyzer.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\H264BSAnalyzer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\H264BSAnalyzer.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /NODEFAULTLIB:library H264BSAnalyzer.cpp H264BSAnalyzerDlg.cpp PlayDlg.cpp h265_stream.cpp hexeditctrl.cpp
+     1>cl : 命令行 warning D9002: 忽略未知选项“/NODEFAULTLIB:library”
+         h265_stream.cpp
+         H264BSAnalyzerDlg.cpp
+     1>e:\hevc\h264bsanalyzer-master\h264bsanalyzer\h264bsanalyzerdlg.cpp(1242): error C2018: 未知字符“0x40”
+     1>e:\hevc\h264bsanalyzer-master\h264bsanalyzer\h264bsanalyzerdlg.cpp(1243): error C2065: “TN”: 未声明的标识符
+         正在生成代码...
+         正在编译...
+         H264BSAnalyzer.cpp
+         正在生成代码...
+         正在编译...
+         hexeditctrl.cpp
+         PlayDlg.cpp
+         正在生成代码...
+     1>已完成生成项目“E:\HEVC\H264BSAnalyzer-master\H264BSAnalyzer\H264BSAnalyzer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:15.74

@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/1/9 15:42:13。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TAppCommon_vc2012.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\TAppCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TAppCommon\program_options_lite.cpp
+         program_options_lite.cpp
+       Lib:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\TAppCommon.lib" /NOLOGO "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\program_options_lite.obj"
+         TAppCommon_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\TAppCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\TAppCommon.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppCommon\TAppCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TAppCommon_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.14

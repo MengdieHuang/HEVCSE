@@ -1,0 +1,27 @@
+﻿生成启动时间为 2019/1/3 16:23:33。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TAppEncoder_vc2012.vcxproj”在节点 5 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\TAppEncoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\App\TAppEncoder\encmain.cpp ..\..\source\App\TAppEncoder\TAppEncCfg.cpp ..\..\source\App\TAppEncoder\TAppEncTop.cpp
+         TAppEncTop.cpp
+         TAppEncCfg.cpp
+         encmain.cpp
+         正在生成代码...
+       Link:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\HEVC\HM-16.18\build\\..\bin\vc2012\Win32\Debug\TAppEncoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\HEVC\HM-16.18\build\\..\bin\vc2012\Win32\Debug\TAppEncoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\HEVC\HM-16.18\build\\..\bin\vc2012\Win32\Debug\TAppEncoder.lib" /MACHINE:X86 /SAFESEH "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\encmain.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\TAppEncCfg.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\TAppEncTop.obj"
+         "E:\HEVC\HM-16.18\build\vc2012\Win32\Debug\TAppCommon\TAppCommon.lib"
+         "E:\HEVC\HM-16.18\build\vc2012\Win32\Debug\TLibCommon\TLibCommon.lib"
+         "E:\HEVC\HM-16.18\build\vc2012\Win32\Debug\TLibEncoder\TLibEncoder.lib"
+         "E:\HEVC\HM-16.18\build\vc2012\Win32\Debug\TLibVideoIo\TLibVideoIO.lib"
+         TAppEncoder_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\..\bin\vc2012\Win32\Debug\TAppEncoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\TAppEncoder.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Debug\TAppEncoder\TAppEncoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TAppEncoder_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.77

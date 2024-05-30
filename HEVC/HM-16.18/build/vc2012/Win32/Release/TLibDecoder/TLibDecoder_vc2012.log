@@ -1,0 +1,58 @@
+﻿生成启动时间为 2019/1/22 20:15:51。
+     1>项目“E:\HEVC\HM-16.18\build\vc2012\TLibDecoder_vc2012.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TLibDecoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\HEVC\HM-16.18\source\OpenSSL\include" /I"E:\HEVC\HM-16.18\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\\" /Fd"E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\HMEnc.cpp
+         HMEnc.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(687): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(688): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(709): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(711): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(733): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(734): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(767): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(786): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(805): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(845): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(865): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(884): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(932): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(949): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(960): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1005): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1022): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1033): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1690): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1691): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1698): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(1699): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(2501): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\..\source\Lib\TLibDecoder\HMEnc.cpp(2502): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+       Lib:
+         E:\VS2012\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TLibDecoder.lib" libeay32.lib ssleay32.lib /LIBPATH:"E:\HEVC\HM-16.18\source\OpenSSL\lib" /NOLOGO /LTCG "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\AnnexBread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\HMEnc.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\NALread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\SEIread.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\SyntaxElementParser.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecBinCoderCABAC.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecCAVLC.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecConformance.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecCu.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecEntropy.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecGop.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecSbac.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecSlice.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TDecTop.obj"
+         "E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\EncNALObject.obj"
+     1>ssleay32.lib(SSLEAY32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 libeay32.lib(LIBEAY32.dll) 中定义；已忽略第二个定义
+         TLibDecoder_vc2012.vcxproj -> E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TLibDecoder.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TLibDecoder.unsuccessfulbuild”。
+         正在对“E:\HEVC\HM-16.18\build\\vc2012\Win32\Release\TLibDecoder\TLibDecoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\HEVC\HM-16.18\build\vc2012\TLibDecoder_vc2012.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.02

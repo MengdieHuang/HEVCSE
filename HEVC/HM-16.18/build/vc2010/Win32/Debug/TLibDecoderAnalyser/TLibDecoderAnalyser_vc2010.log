@@ -1,0 +1,38 @@
+﻿Build started 11/7/2018 2:00:51 PM.
+     1>Project "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\vc2010\TLibDecoderAnalyser_vc2010.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\MaggieBorn\MaggieDownApp\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\..\source\Lib\\" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D RExt__DECODER_DEBUG_BIT_STATISTICS=1 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\\" /Fd"C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\AnnexBread.cpp ..\..\source\Lib\TLibDecoder\NALread.cpp ..\..\source\Lib\TLibDecoder\SEIread.cpp ..\..\source\Lib\TLibDecoder\SyntaxElementParser.cpp ..\..\source\Lib\TLibDecoder\TDecBinCoderCABAC.cpp ..\..\source\Lib\TLibDecoder\TDecCAVLC.cpp ..\..\source\Lib\TLibDecoder\TDecConformance.cpp ..\..\source\Lib\TLibDecoder\TDecCu.cpp ..\..\source\Lib\TLibDecoder\TDecEntropy.cpp ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecSbac.cpp ..\..\source\Lib\TLibDecoder\TDecSlice.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         TDecTop.cpp
+         TDecSlice.cpp
+         TDecSbac.cpp
+         TDecGop.cpp
+         TDecEntropy.cpp
+         TDecCu.cpp
+         TDecConformance.cpp
+         TDecCAVLC.cpp
+         TDecBinCoderCABAC.cpp
+         SyntaxElementParser.cpp
+         SEIread.cpp
+         NALread.cpp
+         AnnexBread.cpp
+         正在生成代码...
+       Lib:
+         C:\MaggieBorn\MaggieDownApp\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib" /NOLOGO "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\AnnexBread.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\NALread.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\SEIread.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\SyntaxElementParser.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecBinCoderCABAC.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecCAVLC.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecConformance.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecCu.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecEntropy.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecGop.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecSbac.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecSlice.obj"
+         "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TDecTop.obj"
+         TLibDecoderAnalyser_vc2010.vcxproj -> C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\\vc2010\Win32\Debug\TLibDecoderAnalyser\TLibDecoderAnalyser.lib
+     1>Done Building Project "C:\MaggieBorn\MaggieExperiment\2nd Exp\HEVC\HM-16.18\build\vc2010\TLibDecoderAnalyser_vc2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.22
